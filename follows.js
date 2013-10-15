@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'kkkyy', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'hR3WF3XuUI3t1o0pQGpB8RHLyxI3w2X2E8HZ4RAoFGseP8zc', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [222032546], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'My Home Weather Station', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
