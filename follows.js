@@ -12,9 +12,9 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'hR3WF3XuUI3t1o0pQGpB8RHLyxI3w2X2E8HZ4RAoFGseP8zc', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [222032546], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'My Home Weather Station', // Replaces Xively logo in the header
+	var defaultKey		= 'CYIbu8eoNhkDEhlOjQcBL4eG3H6emUhGwk9lm77qdYQq6vxB', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [439182358], // Comma separated array of Xively Feed ID numbers
+		applicationName	= '愷優科技雲端氣象站', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
